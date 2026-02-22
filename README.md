@@ -75,11 +75,3 @@ MongoDB Database
 - Frontend communicates with backend through HTTP requests  
 
 ---
-
-## Installation & Setup
-
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/your-username/arogyamapan.git
-cd arogyamapan
